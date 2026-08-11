@@ -5,8 +5,8 @@ Responsive, SEO-optimised static landing page for Raji Tuition Centre in Tuticor
 ## Files
 
 - `index.html` - semantic landing page with one H1, local SEO copy, form, CTA links and structured data.
-- `styles.css` - mobile-first responsive styling using the provided navy, gold, grey and white brand palette.
-- `app.js` - accessible mobile navigation and client-side enquiry form validation/success state.
+- `css/styles.css` - mobile-first responsive styling using the provided navy, gold, grey and white brand palette.
+- `js/app.js` - accessible mobile navigation and client-side enquiry form validation/success state.
 - `robots.txt` and `sitemap.xml` - technical SEO files.
 - `assets/` - optimised logo and favicon assets.
 
