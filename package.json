@@ -1,0 +1,24 @@
+{
+  "name": "raji-tuition-centre-landing-page",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Responsive SEO-optimised landing page for Raji Tuition Centre in Tuticorin.",
+  "scripts": {
+    "start": "vite --host 127.0.0.1",
+    "dev": "vite --host 127.0.0.1",
+    "preview": "vite preview --host 127.0.0.1",
+    "build": "echo \"Static site ready for deployment\""
+  },
+  "keywords": [
+    "raji-tuition-centre",
+    "tuition-centre",
+    "tuticorin",
+    "thoothukudi",
+    "landing-page"
+  ],
+  "author": "Raji Tuition Centre",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "vite": "^7.0.0"
+  }
+}
